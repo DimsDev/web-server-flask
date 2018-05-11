@@ -1,6 +1,0 @@
-Flask
-flask_bootstrap 
-flask_script
-flask_moment 
-flask_wtf 
-wtforms 
